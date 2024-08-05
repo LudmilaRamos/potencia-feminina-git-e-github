@@ -11,4 +11,6 @@
 ## git add (caminho do arquivo)
 **adiciona um arquivo em especifico**
 
+## git commit
+
 

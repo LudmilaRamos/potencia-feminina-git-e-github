@@ -1,6 +1,6 @@
-# Notas de aula referente ao curso de Git e Github da potencia feminina
+## Notas de aula referente ao curso de Git e Github da Potencia Feminina
 
+### Instalação do git
 
-## nota 1
-
-## nota 2
+### Configuração do git
+### comandos
